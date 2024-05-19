@@ -31,7 +31,7 @@ This project analyzes which people were likely to survive. In particular, tools 
 
 ## File Description
 - `titanic_predictor`: Contains python code for predicting survival.
-- `my_solution.csv`: Contains sample output file generated from the algorithm.
+- `solution.csv`: Contains sample output file generated from the algorithm.
 - `train.csv`: Contains training data.
 - `test.csv`: Contains testing data for making predictions.
 - `readme.md`: Guide to this project.
